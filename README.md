@@ -1,4 +1,4 @@
-# Stort Teller
+# Story Teller
 storytelling app is like
 a social media app.
 In this app, we have the
